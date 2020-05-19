@@ -23,3 +23,5 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+
+瓦片图保存在项目 statis目录下，目前只有深圳部分区域，可直接使用！
